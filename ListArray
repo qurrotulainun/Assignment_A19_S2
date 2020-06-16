@@ -67,7 +67,7 @@ public class ListArray {
             first--;
             return x;
         } else {
-            System.out.println("under f1ow");
+            System.out.println("under flow");
         }
         return 0;
     }
