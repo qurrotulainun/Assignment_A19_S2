@@ -1,4 +1,4 @@
-package pertemuan10;
+package queue;
 public class Queue {
 
     private int maxsize;
