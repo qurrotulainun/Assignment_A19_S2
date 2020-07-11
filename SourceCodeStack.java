@@ -4,7 +4,7 @@ public interface Stack {
 	public Object pop();
 }
 
-public class StackAsArray extends AbstactContainer
+public class StackAsArray extends AbstractContainer
 		implements Stack {
 			protected Object[] array;
 			public StackAsArray (int size) {
